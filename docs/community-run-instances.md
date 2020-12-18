@@ -166,6 +166,7 @@ Next to its native webclient interface, Jitsi Meet is also available as
 |  	befair1.iorestoacasa.work	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=befair1.iorestoacasa.work&latest)	   |  	Hetzner Online GmbH	  |
 |  	befair2.iorestoacasa.work	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=befair2.iorestoacasa.work&latest)	   |  	Hetzner Online GmbH	  |
 |  	besprechung.net	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=besprechung.net&latest)	   |  	Host Europe GmbH	  |
+|  	meet.netnik.de	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=meet.netnik.de&latest)	   |  	Netnik UG (haftungsbeschränkt)	  |
 |  	conference.mafiasi.de   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=conference.mafiasi.de&latest)	   |  	|
 |  	meet.physnet.uni-hamburg.de   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=meet.physnet.uni-hamburg.de&latest)	   |  	|
 |  	jitsi.arvidortwig.de	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=jitsi.arvidortwig.de&latest)	   |  	 	  |
