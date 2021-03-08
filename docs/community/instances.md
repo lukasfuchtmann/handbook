@@ -183,6 +183,7 @@ Next to its native webclient interface, Jitsi Meet is also available as
 |  	www.kuketz-meet.de	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=www.kuketz-meet.de&latest)	   |  		  |
 |  	meet.teamcloud.work	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=meet.teamcloud.work&latest)	   |  		  |
 |  	meet.nerd.re	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=meet.nerd.re&latest)	   |  	Contabo GmbH	  |
+|  	meet.netnik.de	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=meet.netnik.de&latest)	   |  	Netnik UG (haftungsbeschränkt)	  |
 |  	meet.bitblaze.io	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=meet.bitblaze.io&latest)	   |  		  |
 |  	de-fsn-1.jitsi.rocks	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=de-fsn-1.jitsi.rocks&latest)	   |  	Hetzner Online GmbH	  |
 |  	fi-hel-1.jitsi.rocks	   |  		   |  	   	   |  	[SSL check](https://www.ssllabs.com/ssltest/analyze.html?d=fi-hel-1.jitsi.rocks&latest)	   |  	Hetzner Online GmbH	  |
